@@ -1,0 +1,5 @@
+//For simple addition 
+localhost:3000/
+
+//For BMI Calculation
+localchost:3000/bmicalculator
